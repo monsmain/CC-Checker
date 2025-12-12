@@ -1,2 +1,2 @@
-sk_live_
+cs_live_c1sKvfNNHJq7NBBxOTgz0iJ6kFto2cZx5YJCzRSp9KZkGlcodGSJq0gilQ
 https://github.com/adityash4rma/stripe-key-checker/blob/master/keys.txt
